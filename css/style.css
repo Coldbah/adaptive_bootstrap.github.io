@@ -1,0 +1,28 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-caption__advantages {
+    margin-top: 103px;
+    margin-bottom: 120px;
+    font-size: 25px;
+    color: #3b3f6a;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.advantage-money {
+    padding-bottom: 30px;
+}
+
+.advantage-money__caption {
+    font-size: 22px;
+    color: #3b3f6a;
+}
+
+.advantage-money__desc {
+    font-size: 20px;
+    color: #686c8a;
+}
